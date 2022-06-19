@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SiliconApi.Common/bin/Debug/net5.0
+/SiliconApi.Common/obj
+/SiliconApi.Data/bin/Debug/net5.0
+/SiliconApi.Data/obj
+/SiliconApi.Services/bin/Debug/net5.0
+/SiliconApi.Services/obj
+/SiliconWebApiCore/.vs/SiliconWebApiCore
+/SiliconWebApiCore/bin/Debug/net5.0
+/SiliconWebApiCore/obj
